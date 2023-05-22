@@ -1,0 +1,17 @@
+C:\Users\Olawale.T\source\repos\ToDoAppNew\bin\Debug\netcoreapp3.1\ToDoAppNew.exe
+C:\Users\Olawale.T\source\repos\ToDoAppNew\bin\Debug\netcoreapp3.1\ToDoAppNew.deps.json
+C:\Users\Olawale.T\source\repos\ToDoAppNew\bin\Debug\netcoreapp3.1\ToDoAppNew.runtimeconfig.json
+C:\Users\Olawale.T\source\repos\ToDoAppNew\bin\Debug\netcoreapp3.1\ToDoAppNew.runtimeconfig.dev.json
+C:\Users\Olawale.T\source\repos\ToDoAppNew\bin\Debug\netcoreapp3.1\ToDoAppNew.dll
+C:\Users\Olawale.T\source\repos\ToDoAppNew\bin\Debug\netcoreapp3.1\ToDoAppNew.pdb
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.csproj.AssemblyReference.cache
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.AssemblyInfoInputs.cache
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.AssemblyInfo.cs
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.csproj.CoreCompileInputs.cache
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.dll
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.pdb
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.genruntimeconfig.cache
+C:\Users\Olawale.T\source\repos\ToDoAppNew\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Olawale.T\source\repos\ToDoAppNew\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Olawale.T\source\repos\ToDoAppNew\obj\Debug\netcoreapp3.1\ToDoAppNew.csproj.CopyComplete

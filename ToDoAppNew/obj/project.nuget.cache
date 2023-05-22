@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xjVcxPATuBdcWf8nQLejt92IljngZMUWh2oEkFRlr6YpqFU7slEP7fBjSFI5oYuf9ZVcF3Q6p/J7mvElTpQ3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Olawale.T\\source\\repos\\ToDoAppNew\\ToDoAppNew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olawale.T\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\Olawale.T\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
